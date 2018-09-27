@@ -3,7 +3,7 @@
 	<extension point="xbmc.addon.repository" name="Brasil Full Add-on Repository">
 		<info compressed="false">https://raw.githubusercontent.com/BrFulll/brasilfull.repo/master/addons.xml</info>
 		<checksum>https://raw.githubusercontent.com/BrFulll/brasilfull.repo/master/addons.xml.md5</checksum>
-		<datadir zip="true">https://raw.githubusercontent.com/BrFulll/brasilfull.repo/master/repo/</datadir>
+		<datadir zip="true">https://github.com/BrFulll/brasilfull.repo/tree/master/repo</datadir>
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<summary>Repo Oficial do Addo Brasil Full</summary>
