@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addons>
+<addon id="brasilfull.repo" name="Brasil Full Repo" version="0.5" provider-name="MatheuZ">
+	<extension point="xbmc.addon.repository" name="Brasil Full Add-on Repository">
+		<info compressed="false">http://raw.github.com/BrFulll/brasilfull.repo/master/addons.xml</info>
+		<checksum>http://raw.github.com/BrFulll/brasilfull.repo/master/addons.xml.md5</checksum>
+		<datadir zip="true">http://raw.github.com/BrFulll/brasilfull.repo/master/repo/</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>Repo Oficial do Addo Brasil Full</summary>
+		<description>ConteÃºdo para diversÃ£o de todos</description>
+		<disclaimer></disclaimer>
+		<platform>all</platform>
+	</extension>
+</addon>
+</addons>
